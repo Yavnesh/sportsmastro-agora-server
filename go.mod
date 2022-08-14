@@ -1,6 +1,6 @@
 module sportsmastro
 
-go 1.19
+go 1.18
 
 require (
 	github.com/AgoraIO-Community/go-tokenbuilder v1.0.0
